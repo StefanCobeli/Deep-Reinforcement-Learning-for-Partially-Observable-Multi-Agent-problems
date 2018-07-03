@@ -1,12 +1,18 @@
 # Deep Reinforcement Learning for Partially Observable Multi-Agent problems
 
-The source code for the Bachelor degree in Computer Science.
+<sup>The source code for the Bachelor degree in Computer Science.</sup>
 
-In the notebooks *hats_riddle_keras.ipynb* and *switch_riddle_keras.ipynb* can be foud a Python implementation for the problems proposed in the paper [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](https://arxiv.org/abs/1602.02672?context=cs).
+We apply Deep Reinforcement Learning techniques to solve popular riddles,
+in which team work is highly needed. The agents need to learn how to cooperate 
+in order to improve their results.  
 
-In the notebook *hat_problem_sumary.ipynb* there is the description of similar problem tackled with Reinforcement Learning.
+## Analyzed riddles
+We bring into discussion the _Hats riddle_ (*hats_riddle_keras.ipynb*), 
+the _Switch riddle_ (*switch_riddle_keras.ipynb*)
+and the _Hats<sup>*</sup> problem_ (*hat_problem_sumary.ipynb*).
 
+
+### Supplementary material
 The folder **results** contains plots, statistics and keras models obtained from this project.  
 
 The folder **other attepmts** contains some unsuccessful experients.
-
