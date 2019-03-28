@@ -39,3 +39,7 @@ receive a prior one hour brake to plan together a strategy, which will prove tha
 perfect teammates, also.
 
 ![One possible scenario of the Hats<sup>*</sup>-problem](images/TreiCaciuli.png)
+
+_The above text was inspired in essence by  problem 
+[$50 for All](https://www.nsa.gov/News-Features/News-Stories/Article-View/Article/1627320/august-puzzle-periodical-50-for-all/),
+which was proposed to National Security Agency (NSA) Puzzle Periodical on the month of August, 2016._
