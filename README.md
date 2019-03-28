@@ -7,12 +7,12 @@ in which team work is highly needed. The agents need to learn how to cooperate
 in order to improve their results.  
 
 ## Analyzed riddles
-We bring into discussion the _Hats riddle_ (*hats_riddle_keras.ipynb*), 
-the _Switch riddle_ (*switch_riddle_keras.ipynb*)
-and the _Hats<sup>*</sup> problem_ (*hat_problem_sumary.ipynb*).
+We bring into discussion the [_Hats riddle_](https://github.com/StefanCobeli/Deep-Reinforcement-Learning-for-Partially-Observable-Multi-Agent-problems/blob/master/hats_riddle_keras.ipynb), 
+the [_Switch riddle_](https://github.com/StefanCobeli/Deep-Reinforcement-Learning-for-Partially-Observable-Multi-Agent-problems/blob/master/switch_riddle_keras.ipynb)
+and the [_Hats<sup>*</sup> problem_](https://github.com/StefanCobeli/Deep-Reinforcement-Learning-for-Partially-Observable-Multi-Agent-problems/blob/master/hat_problem_sumary.ipynb).
 
 
 ### Supplementary material
-The folder **results** contains plots, statistics and keras models obtained from this project.  
+The folder [results](https://github.com/StefanCobeli/Deep-Reinforcement-Learning-for-Partially-Observable-Multi-Agent-problems/tree/master/results) contains plots, statistics and keras models obtained from this project.  
 
-The folder **other attepmts** contains some unsuccessful experients.
+The folder [other attepmts](https://github.com/StefanCobeli/Deep-Reinforcement-Learning-for-Partially-Observable-Multi-Agent-problems/tree/master/other%20attempts) contains some unsuccessful experients.
