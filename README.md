@@ -16,3 +16,26 @@ and the [_Hats<sup>*</sup> problem_](https://github.com/StefanCobeli/Deep-Reinfo
 The folder [results](https://github.com/StefanCobeli/Deep-Reinforcement-Learning-for-Partially-Observable-Multi-Agent-problems/tree/master/results) contains plots, statistics and keras models obtained from this project.  
 
 The folder [other attepmts](https://github.com/StefanCobeli/Deep-Reinforcement-Learning-for-Partially-Observable-Multi-Agent-problems/tree/master/other%20attempts) contains some unsuccessful experients.
+
+## Hats$^*$-problem
+
+In the Jail of Riddles there is a tradition. On each Christmas Eve the prison chief must 
+free ten 
+good prisoners if they are able to solve a group task in order to show that they can integrate back in the 
+society.
+	
+This year, the chief proposes the following problem.  The jailer has hats of ten different colors. He 
+shows 
+all the hat types to the prisoners. On each prisoner's head will be placed a hat of a random color 
+selected from the ten colors showed earlier. The captives are placed in a circle. Thus, each prisoner can see 
+the colors of the hats on the other nine heads.
+	
+Each prisoner must guess the color of its own hat and write it on a piece of paper. If at least one 
+of them  guesses correctly, all of them will be released. If not, all will go back to their cells.
+
+They are 
+not allowed to say  anything or communicate in any other way with each other during the trial. However, they 
+receive a prior one hour brake to plan together a strategy, which will prove that they are not only wise, but 
+perfect teammates, also.
+
+![One possible scenario of the Hats$^*$-problem](images/TreiCaciuli.png)
