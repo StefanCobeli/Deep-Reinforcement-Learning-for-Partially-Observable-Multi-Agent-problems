@@ -17,7 +17,7 @@ The folder [results](https://github.com/StefanCobeli/Deep-Reinforcement-Learning
 
 The folder [other attepmts](https://github.com/StefanCobeli/Deep-Reinforcement-Learning-for-Partially-Observable-Multi-Agent-problems/tree/master/other%20attempts) contains some unsuccessful experients.
 
-## Hats$^*$-problem
+## Hats<sup>*</sup>-problem
 
 In the Jail of Riddles there is a tradition. On each Christmas Eve the prison chief must 
 free ten 
@@ -38,4 +38,4 @@ not allowed to say  anything or communicate in any other way with each other dur
 receive a prior one hour brake to plan together a strategy, which will prove that they are not only wise, but 
 perfect teammates, also.
 
-![One possible scenario of the Hats$^*$-problem](images/TreiCaciuli.png)
+![One possible scenario of the Hats<sup>*</sup>-problem](images/TreiCaciuli.png)
