@@ -17,7 +17,7 @@ The folder [results](https://github.com/StefanCobeli/Deep-Reinforcement-Learning
 
 The folder [other attepmts](https://github.com/StefanCobeli/Deep-Reinforcement-Learning-for-Partially-Observable-Multi-Agent-problems/tree/master/other%20attempts) contains some unsuccessful experients.
 
-## Hats<sup>*</sup>-problem
+## [Hats<sup>*</sup>-problem](https://github.com/StefanCobeli/Deep-Reinforcement-Learning-for-Partially-Observable-Multi-Agent-problems/blob/master/hat_problem_sumary.ipynb)
 
 In the Jail of Riddles there is a tradition. On each Christmas Eve the prison chief must 
 free ten 
